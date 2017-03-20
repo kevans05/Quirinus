@@ -1,0 +1,3 @@
+from GCWeatherScrap import canadian_weather
+
+canadian_weather.read_multiple_month_from_gc()
