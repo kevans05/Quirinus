@@ -1,3 +1,3 @@
-from canadian_weather import canadian_weather
+from GCWeatherScrap.download_gc_weather import canadian_weather
 
 canadian_weather = canadian_weather()
